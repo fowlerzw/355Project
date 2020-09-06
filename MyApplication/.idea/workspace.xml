@@ -49,7 +49,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -115,13 +115,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="354" y="162" key="SettingsEditor" timestamp="1599342513152">
+    <state x="354" y="162" key="SettingsEditor" timestamp="1599370306956">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="354" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599342513152" />
-    <state x="439" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1599342246862">
+    <state x="354" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599370306956" />
+    <state x="439" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1599370229505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="439" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599342246862" />
+    <state x="439" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599370229505" />
+    <state x="662" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599370505366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599370505366" />
   </component>
 </project>
